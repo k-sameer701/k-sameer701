@@ -10,6 +10,3 @@
 
 - 📫 How to reach me **sameer2001kr@gmail.co**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-sameer701&show_icons=true&locale=en&layout=compact" alt="k-sameer701" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-sameer701&show_icons=true&locale=en" alt="k-sameer701" /></p>
