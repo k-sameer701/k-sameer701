@@ -11,6 +11,20 @@
 
 - 📫 How to reach me **sameer2001kr@gmail.co**
 
+<h3 align="left">🤙🏻 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/sameer_701" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
+            width="34" /></a>
+  <a href="https://leetcode.com/k-sameer_701/" target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+            width="34" /></a>
+  <a href="https://stackoverflow.com/users/23629899/sameer-701"
+        target="_blank" rel="noreferrer"> <kbd> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
+            width="40" height="32" /></a>
+</p>
+          
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left">
 <kbd>
