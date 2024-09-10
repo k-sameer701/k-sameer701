@@ -143,3 +143,31 @@
 </kbd>
 
 </p>
+
+<div>
+  
+<p align="center"> 
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-sameer701&theme=radical"/> 
+ <p align="center">
+<img width="80%" alt="contributions graph" src="https://github-readme-activity-graph.vercel.app/graph?username=k-sameer701&theme=tokyo-night&area=true&hide_border=true" />
+
+<div align="center">
+<table>
+  <tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=k-sameer701&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sameer Kumar" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-sameer701&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sameer Kumar" /></td>
+  </tr>
+</table>  
+</div>
+
+<h4> 
+  <details> 
+    <summary> GitHub Trophies :trophy: </summary> 
+    <p align="center"> 
+      <br> <br> 
+      <img width=500 src="https://github-profile-trophy.vercel.app/?username=k-sameer701&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
+  </details> 
+</h4>
+</div>
