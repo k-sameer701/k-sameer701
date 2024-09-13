@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+I'm+Sameer+%F0%9F%91%8B;Learning+with+each+commit+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>  
 </h1>
 
-<img align="right" alt="Coding" width="450"  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-sameer701&label=Profile%20views&color=0e75b6&style=flat" alt="k-sameer701" /> </p>
 
 - 🌱 I’m currently learning **C++, Python, Android Development**
@@ -27,126 +27,29 @@
 </p>
           
 <h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
-<kbd>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=c"
-      />
-      <img src="https://skillicons.dev/icons?i=c&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="46" alt="android logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="46" alt="kotlin logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="46" alt="gradle logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="46" alt="androidstudio logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="46" alt="vscode logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="46" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="46" alt="github logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="46" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="46" alt="ktor logo"  />
+  <img width="8" />
+</div>
 
-<kbd>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=cpp"
-      />
-      <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
 
-<kbd>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=python"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=python&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=kotlin"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=kotlin&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=git"
-      />
-      <img src="https://skillicons.dev/icons?i=git&theme=light" alt="icons" />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=github"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=github&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a
-    href="https://developer.android.com/studio/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=androidstudio"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=androidstudio&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-<kbd>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://skillicons.dev/icons?i=vscode"
-      />
-      <img
-        src="https://skillicons.dev/icons?i=vscode&theme=light"
-        alt="icons"
-      />
-    </picture>
-  </a>
-</kbd>
-
-</p>
-
-<div>
-  
+<div> 
 <p align="center"> 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-sameer701&theme=radical"/> 
