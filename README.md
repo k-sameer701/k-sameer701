@@ -12,19 +12,37 @@
 
 - 📫 How to reach me **sameer2001kr@gmail.co**
 
-<h3 align="left">🤙🏻 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/sameer_701" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
-            width="34" /></a>
-  <a href="https://leetcode.com/k-sameer_701/" target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-            width="34" /></a>
-  <a href="https://stackoverflow.com/users/23629899/sameer-701"
-        target="_blank" rel="noreferrer"> <kbd> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"
-            width="40" height="32" /></a>
-</p>
+<h3 align="left">🤙🏻 Get In Touch</h3>
+<div align="left">
+  <a href="https://dev.to/sameer_701" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=devto" height="46" alt="devto logo"  />
+    <img width="8" />
+  </a>
+  <a href="https://stackoverflow.com/users/23629899/sameer-701" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" height="46" alt="stackoverflow logo"  />
+    <img width="8" />
+  </a>
+  <a href="https://medium.com/@sameer2001kr" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/medium/white" height="44" alt="medium logo"  />
+    <img width="8" />
+  </a>
+  <a href="https://x.com/ksameer2037" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" height="46" alt="twitter logo"  />
+    <img width="8" />
+  </a>
+  <a href="https://www.linkedin.com/in/k-sameer701/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="linkedin logo"  />
+    <img width="8" />
+  </a>
+  <a href="https://www.instagram.com/sameer._701/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" height="46" alt="instagram logo"  />
+    <img width="8" />
+  </a>
+  <a href="mailto:sameer2001kr@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" height="46" alt="gmail logo"  />
+    <img width="8" />
+  </a>
+</div>
           
 <h3 align="left">🛠️ Tech Stack:</h3>
 <div align="left">
