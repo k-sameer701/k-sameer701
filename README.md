@@ -80,9 +80,16 @@
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=k-sameer701&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sameer Kumar" />
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=k-sameer701&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sameer Kumar" /></td>
+    
   </tr>
 </table>  
+
+  <p align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31br64y6gkpuvuyhx7bksqr2wgky&count=1&width=450" align="center"/>
+    
 </div>
+
+
 
 <h4> 
   <details> 
