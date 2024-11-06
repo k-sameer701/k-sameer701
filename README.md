@@ -84,8 +84,7 @@
   </tr>
 </table>  
 
-  <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31br64y6gkpuvuyhx7bksqr2wgky&count=1&width=450" align="center"/>
+  
     
 </div>
 
